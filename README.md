@@ -34,7 +34,7 @@ pip install requests
 ```
 
 ## What is pip? I don't understand!
-If you don't understand how to install a library also called a "module" in Python please go checkout YT: 
+If you don't understand how to install a library also called a "module" in Python please go checkout YouTube: 
 [How to download and install Python Packages and Modules with Pip](https://www.youtube.com/watch?v=jnpC_Ib_lbc)
 
 # How to add proxies to the list
