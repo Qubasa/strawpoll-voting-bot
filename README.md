@@ -33,6 +33,10 @@ Download the zip or clone it with git then install the required library with:
 pip install requests
 ```
 
+## What is pip? I don't understand!
+If you don't understand how to install a library also called a "module" in Python please go checkout YT: 
+[How to download and install Python Packages and Modules with Pip](https://www.youtube.com/watch?v=jnpC_Ib_lbc)
+
 # How to add proxies to the list
 Download [Libre Office](https://www.libreoffice.org/) open up the LibreOffice writer.
 Paste on each new line the proxy IP and a port divided by a colon.
