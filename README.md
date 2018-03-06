@@ -37,6 +37,10 @@ pip install requests
 If you don't understand how to install a library also called a "module" in Python please go checkout YouTube: 
 [How to download and install Python Packages and Modules with Pip](https://www.youtube.com/watch?v=jnpC_Ib_lbc)
 
+## Proxy timeout?
+If a proxy times out it means the server is not reachable anymore. The predefined list given with this repository most likely only has
+proxies that are not online anymore thus you get many proxy timeouts. To get a new list of proxies just search for proxy lists on the web. 
+
 # How to add proxies to the list
 Download [Libre Office](https://www.libreoffice.org/) open up the LibreOffice writer.
 Paste on each new line the proxy IP and a port divided by a colon.
@@ -52,3 +56,6 @@ Save the file as an .xml file and replace the https-proxy-list.xml file in the p
 The survey id is always in the url pointing to your survey for example: https://strawpoll.de/abbcw17 then abbcw17 would be the id.
 To find the target you have to right click the checkbox you want to vote for, then go to inspect element and search for a
 value with 'check' at the beginning like check3537987. This is the checkbox id.
+
+
+
